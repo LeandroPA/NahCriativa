@@ -1,4 +1,7 @@
 {
+	"id": "/",
+    "scope": "/",
+    "start_url": "/",
 	"name": "Nah Criativa",
 	"short_name": "Nah Criativa",
 	"icons": [
@@ -15,5 +18,5 @@
 	],
 	"theme_color": "#fdf7f3",
 	"background_color": "#fdf7f3",
-	"display": "fullscreen"
+	"display": "standalone"
 }
