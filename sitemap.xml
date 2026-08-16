@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/__sitemap__/style.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>/</loc>
+        <loc>https://nahcriativa.com.br/</loc>
         <image:image>
-            <image:loc>/images/22b54af9-91eb-4e5d-99ad-290de2000240.webp</image:loc>
+            <image:loc>https://nahcriativa.com.br/images/22b54af9-91eb-4e5d-99ad-290de2000240.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>/images/d0ed2f5b-5c68-4c63-9668-66872fbca74f.webp</image:loc>
+            <image:loc>https://nahcriativa.com.br/images/d0ed2f5b-5c68-4c63-9668-66872fbca74f.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>/images/4099b0f7-72dd-4a43-921d-0e2a3cc19396.webp</image:loc>
+            <image:loc>https://nahcriativa.com.br/images/4099b0f7-72dd-4a43-921d-0e2a3cc19396.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>/images/6590603c-d4c4-4728-9b91-d9c819d8513c.webp</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <loc>/produto/caneca-personalizada</loc>
-        <image:image>
-            <image:loc>/images/22b54af9-91eb-4e5d-99ad-290de2000240.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>/images/d0ed2f5b-5c68-4c63-9668-66872fbca74f.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>/images/4099b0f7-72dd-4a43-921d-0e2a3cc19396.webp</image:loc>
-        </image:image>
-        <image:image>
-            <image:loc>/images/6590603c-d4c4-4728-9b91-d9c819d8513c.webp</image:loc>
+            <image:loc>https://nahcriativa.com.br/images/6590603c-d4c4-4728-9b91-d9c819d8513c.webp</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>/produto/kit-caneca-personalizada</loc>
+        <loc>https://nahcriativa.com.br/produto/caneca-personalizada</loc>
         <image:image>
-            <image:loc>/images/22b54af9-91eb-4e5d-99ad-290de2000240.webp</image:loc>
+            <image:loc>https://nahcriativa.com.br/images/22b54af9-91eb-4e5d-99ad-290de2000240.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>/images/d0ed2f5b-5c68-4c63-9668-66872fbca74f.webp</image:loc>
+            <image:loc>https://nahcriativa.com.br/images/d0ed2f5b-5c68-4c63-9668-66872fbca74f.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>/images/4099b0f7-72dd-4a43-921d-0e2a3cc19396.webp</image:loc>
+            <image:loc>https://nahcriativa.com.br/images/4099b0f7-72dd-4a43-921d-0e2a3cc19396.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>/images/6590603c-d4c4-4728-9b91-d9c819d8513c.webp</image:loc>
+            <image:loc>https://nahcriativa.com.br/images/6590603c-d4c4-4728-9b91-d9c819d8513c.webp</image:loc>
         </image:image>
     </url>
     <url>
-        <loc>/produto/toalhinha-personalizada</loc>
+        <loc>https://nahcriativa.com.br/produto/kit-caneca-personalizada</loc>
         <image:image>
-            <image:loc>/images/22b54af9-91eb-4e5d-99ad-290de2000240.webp</image:loc>
+            <image:loc>https://nahcriativa.com.br/images/22b54af9-91eb-4e5d-99ad-290de2000240.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>/images/d0ed2f5b-5c68-4c63-9668-66872fbca74f.webp</image:loc>
+            <image:loc>https://nahcriativa.com.br/images/d0ed2f5b-5c68-4c63-9668-66872fbca74f.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>/images/4099b0f7-72dd-4a43-921d-0e2a3cc19396.webp</image:loc>
+            <image:loc>https://nahcriativa.com.br/images/4099b0f7-72dd-4a43-921d-0e2a3cc19396.webp</image:loc>
         </image:image>
         <image:image>
-            <image:loc>/images/6590603c-d4c4-4728-9b91-d9c819d8513c.webp</image:loc>
+            <image:loc>https://nahcriativa.com.br/images/6590603c-d4c4-4728-9b91-d9c819d8513c.webp</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://nahcriativa.com.br/produto/toalhinha-personalizada</loc>
+        <image:image>
+            <image:loc>https://nahcriativa.com.br/images/22b54af9-91eb-4e5d-99ad-290de2000240.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://nahcriativa.com.br/images/d0ed2f5b-5c68-4c63-9668-66872fbca74f.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://nahcriativa.com.br/images/4099b0f7-72dd-4a43-921d-0e2a3cc19396.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://nahcriativa.com.br/images/6590603c-d4c4-4728-9b91-d9c819d8513c.webp</image:loc>
         </image:image>
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v8.3.4 at 2026-08-16T01:14:56.981Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v8.3.4 at 2026-08-16T01:59:49.461Z -->
