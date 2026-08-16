@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://nahcriativa.com.br/sitemap.xml

@@ -1,0 +1,1 @@
+import{O as e,P as t,X as n,at as r}from"./BWFQvxKL.js";import{p as i,u as a}from"./DpdGUBZU.js";var o=t({__name:`[...error]`,async setup(t){let o,s;return i(),[o,s]=r(()=>a(`/`)),await o,s(),(t,r)=>(n(),e(`div`))}});export{o as default};
